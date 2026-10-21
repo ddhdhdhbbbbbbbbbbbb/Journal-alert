@@ -1,6 +1,6 @@
 {
   "project": {
-    "name": "大气环境文献日报",
+    "name": "园艺文献日报",
     "timezone": "Asia/Shanghai"
   },
   "window": {
@@ -30,93 +30,44 @@
   },
   "keywords": [
     {
-      "label": "空气污染",
+      "label": "柑橘",
       "main": true,
       "weight": 3,
       "terms": [
-        "air pollution",
-        "air pollutant",
-        "air quality",
-        "particulate matter",
-        "pm2.5",
-        "pm10",
-        "ultrafine particle",
-        "aerosol",
-        "ozone",
-        "no2",
-        "so2",
-        "haze",
-        "smog",
-        "emission inventory",
-        "anthropogenic emission",
-        "exposure assessment"
+        "",
+        "citrus",
+        "pomelo"
       ]
     },
     {
-      "label": "遥感",
+      "label": "嫁接",
       "main": true,
       "weight": 3,
       "terms": [
         "remote sensing",
-        "satellite",
-        "satellite observation",
-        "modis",
-        "viirs",
-        "tropomi",
-        "omi",
-        "landsat",
-        "sentinel-5p",
-        "hyperspectral",
-        "lidar",
-        "retrieval algorithm",
-        "geostationary",
-        "aerosol optical depth",
-        "aod"
+        "graft",
+        "grafting"
       ]
     },
     {
-      "label": "大气化学",
+      "label": "接穗",
       "main": true,
       "weight": 3,
       "terms": [
-        "atmospheric chemistry",
-        "atmospheric oxidation",
-        "photochemistry",
-        "photochemical",
-        "secondary organic aerosol",
-        "soa",
-        "nox",
-        "voc",
-        "volatile organic",
-        "chemical transport model",
-        "heterogeneous chemistry",
-        "atmospheric lifetime",
-        "radical chemistry",
-        "oh radical"
+        "scion"
       ]
     },
     {
-      "label": "生物地球化学",
+      "label": "砧木",
       "main": true,
       "weight": 3,
       "terms": [
-        "biogeochemistry",
-        "biogeochemical",
-        "carbon cycle",
-        "nitrogen cycle",
-        "nutrient cycling",
-        "methane",
-        "ch4 flux",
-        "co2 flux",
-        "carbon flux",
-        "terrestrial carbon",
-        "soil carbon",
-        "nitrous oxide",
-        "n2o"
+        "interstock",
+        "rootstock"
       ]
     },
     {
-      "label": "城市地理信息系统",
+     # "label": "城市地理信息系统",
       "weight": 3,
       "terms": [
         "gis",
