@@ -65,7 +65,7 @@
         "interstock",
         "rootstock"
       ]
-    },
+    }
   ],
   "exclude_terms": [
     "retraction",
