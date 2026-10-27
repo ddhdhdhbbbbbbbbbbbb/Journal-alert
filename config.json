@@ -93,7 +93,7 @@
     {
       "name": "Horticulture Research",
       "issn": "2662-6810",
-      "crossref": "https://api.crossref.org/journals/{ISSN}/works?filter=from-pub-date:{YYYY-MM-DD}&rows=50&sort=published&order=desc",
+      "rss": "",
       "enabled": true
     },
     {
