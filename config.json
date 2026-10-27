@@ -91,6 +91,12 @@
   },
   "journals": [
     {
+      "name": "Horticulture Research",
+      "issn": "2662-6810",
+      "rss": "https://academic.oup.com/hr/rss",
+      "enabled": true
+    },
+    {
       "name": "Nature",
       "issn": "0028-0836",
       "rss": "https://www.nature.com/nature.rss",
